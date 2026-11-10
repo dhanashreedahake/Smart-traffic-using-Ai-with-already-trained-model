@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+opencv-python
+ultralytics
+python-multipart
+numpy
+pydantic
+aiofiles
+python-jose[cryptography]
+passlib[bcrypt]
